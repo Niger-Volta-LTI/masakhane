@@ -1,10 +1,10 @@
-# English to Ẹ̀sán
+# English to Ésán
 
 Author: iroro orife
 
 ## Data
 
-	- The JW300 English-Ẹ̀sán (ish) dataset.
+	- The JW300 English-Ésán (ish) dataset.
 
 ## Model
 
